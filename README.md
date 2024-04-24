@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and Design and Analysis of Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DEADPOOLpv](https://github.com/DEADPOOLpv)
+- 👨‍💻 All of my projects are available at [https://github.com/DEADPOOLpv](https://github.com/DEADPOOLpv?tab=repositories)
 
 - 📫 How to reach me **prathitvisen@gmail.com**
 
