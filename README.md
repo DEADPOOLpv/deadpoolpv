@@ -14,11 +14,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bcNmY8DgrPaT1e2zRkDfvW7KUUwjPEhwxMvLHy65WjU/edit?usp=sharing](https://docs.google.com/document/d/1bcNmY8DgrPaT1e2zRkDfvW7KUUwjPEhwxMvLHy65WjU/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deadpoolpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deadpoolpv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@deadpoolpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deadpoolpv" height="30" width="40" /></a></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
