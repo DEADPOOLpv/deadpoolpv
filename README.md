@@ -3,8 +3,8 @@
 </h1>
 
 <h3 align="center">A highly motivated student with a good understanding of web development (Flask, HTML, CSS, and JavaScript) and programming languages (Python, C++, Dart).</h3>
-
- <! --- (three dashes)- 🔭 I’m currently working on [A Finance Tracker Web Application](https://github.com/DEADPOOLpv/FinanceManager_WebDev) --- !>
+<!--Text-->
+ <!-- - 🔭 I’m currently working on [A Finance Tracker Web Application](https://github.com/DEADPOOLpv/FinanceManager_WebDev) -->
 
 - 🌱 I’m currently learning **MERN Stack and Design and Analysis of Algorithms**
 
