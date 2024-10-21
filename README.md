@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prathitvisen@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bcNmY8DgrPaT1e2zRkDfvW7KUUwjPEhwxMvLHy65WjU/edit?usp=sharing](https://docs.google.com/document/d/1bcNmY8DgrPaT1e2zRkDfvW7KUUwjPEhwxMvLHy65WjU/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1bcNmY8DgrPaT1e2zRkDfvW7KUUwjPEhwxMvLHy65WjU/edit?usp=sharing](https://docs.google.com/document/d/1iKOb3q5Nuw3JQCOnwB_XssjAIDbNWmBPjWIprmzd1QI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
