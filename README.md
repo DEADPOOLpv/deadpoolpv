@@ -6,7 +6,7 @@
 <!--Text-->
 <!--  - 🔭 I’m currently working on [A Finance Tracker Web Application](https://github.com/DEADPOOLpv/FinanceManager_WebDev) -->
 
-- 🌱 I’m currently learning ** Electron And ReactJs Stack and Data Structures & Algorithms**
+- 🌱 I’m currently learning **Electron And ReactJs Stack and Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEADPOOLpv](https://github.com/DEADPOOLpv?tab=repositories)
 
