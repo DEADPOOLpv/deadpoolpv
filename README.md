@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathit+Visen!;" />
 </h1>
 
-<h3 align="center">A highly motivated student with a good understanding of web development (Flask, HTML, CSS, and JavaScript) and programming languages (Python, C++, Dart).</h3>
+<h3 align="center">A highly motivated student with a good understanding of web development (Angular, Flask, HTML, CSS, and JavaScript) and programming languages (Python, C++, Dart).</h3>
 <!--Text-->
 <!--  - 🔭 I’m currently working on [A Finance Tracker Web Application](https://github.com/DEADPOOLpv/FinanceManager_WebDev) -->
 
-- 🌱 I’m currently learning **MERN Stack and Design and Analysis of Algorithms**
+- 🌱 I’m currently learning ** Electron And ReactJs Stack and Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEADPOOLpv](https://github.com/DEADPOOLpv?tab=repositories)
 
