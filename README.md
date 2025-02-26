@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Electron and Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DEADPOOLpv](https://github.com/DEADPOOLpv?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/DEADPOOLpv?tab=repositories)
 
 - 📫 How to reach me **prathitvisen@gmail.com**
 
