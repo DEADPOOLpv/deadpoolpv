@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathit+Visen!;" />
 </h1>
 
-<h3 align="center">A highly motivated student with a good understanding of web development (Angular, Flask, HTML, CSS, and JavaScript) and programming languages (Python, C++, Dart).</h3>
+<h3 align="center">A highly motivated student with a good understanding of web development and programming languages.</h3>
 <!--Text-->
 <!--  - 🔭 I’m currently working on [A Finance Tracker Web Application](https://github.com/DEADPOOLpv/FinanceManager_WebDev) -->
 
